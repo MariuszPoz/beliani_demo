@@ -5,6 +5,9 @@ Resource        ../Resources/BelianiApp.robot
 Test Setup          Common.Begin Web Test
 Test Teardown       Common.End Web Test
 
+# Copy/paste the below line to Terminal windowsto execute
+#robot -d results tests/beliani.robot
+
 *** Variables ***
 ${BROWSER} =            edge
 ${START_URL} =          https://www.beliani.ch
