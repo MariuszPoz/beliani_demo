@@ -45,3 +45,6 @@ Should be able to sign in
     BelianiApp.Open Landing Page
     BelianiApp.Sign In
 
+Feature 2 Test
+    Log     This is ferature 2 test case
+
