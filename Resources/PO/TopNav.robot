@@ -18,6 +18,7 @@ Submit Search
     press keys          ${search_term_id}   ENTER
 
 Go To Basket
-    click element
+    #TODO define locator for basket
+    click element       basket
 
 Check

@@ -48,3 +48,6 @@ Should be able to sign in
 Feature 1 test
     Log To Console    This is Feature 1 test case
 
+Feature 2 Test
+    Log     This is ferature 2 test case
+
