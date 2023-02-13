@@ -6,7 +6,7 @@ Test Setup          Common.Begin Web Test
 Test Teardown       Common.End Web Test
 
 # Copy/paste the below line to Terminal windowsto execute
-#robot -d results tests/beliani.robot
+# robot -d results tests/beliani.robot -i 1001
 
 *** Variables ***
 ${BROWSER} =            edge
