@@ -44,4 +44,7 @@ Should be able to sign in
     [Tags]    1005
     BelianiApp.Open Landing Page
     BelianiApp.Sign In
+    
+Feature 1 test
+    Log To Console    This is Feature 1 test case
 
